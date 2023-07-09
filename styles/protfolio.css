@@ -217,6 +217,7 @@ margin-top: 100px;
 {
     width:50%;
 }
+
 .contact input[type="text"],.contact input[type="email"],textarea{
     display:block;
     margin-bottom: 24px;
@@ -226,8 +227,9 @@ margin-top: 100px;
     background-color: #FFF;
     border: 0;
 }
+
 .section-title{
-text-align: center;
+    text-align:justify;
 }
 .socail-links a{
     margin:25px;
